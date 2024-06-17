@@ -31,6 +31,11 @@ Click the image with your servo configuration and it will take you to the right 
 |--|--|
 | <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-6haNp"><img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/6.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"></a> | <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-Ac7of"><img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/4.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"></a> |
 
+<div align="center">
+  Customize the height of the spacer as needed so that the brush touches the nozzle:
+  <br><br>
+  <img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/5.png" alt="Servo Nozzle Brush" style="margin-top: 10px;">
+</div>
 
 **Parts needed:**
 
