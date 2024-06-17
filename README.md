@@ -22,15 +22,19 @@
 
 **Disclaimers:** 
  - The parts were designed to be printed via SLS; however, all parts can be printed via FDM on a standard 3D printer such as a RatRig. Please note that support will be necessary.
- - A 270 degree servo is needed if you plan to mount the servo on the left.
+ - A 270 degree servo is needed if you plan to mount the servo on the right.
+
+| Left mount servo | Right mount servo |
+|--|--|
+|  <img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/6.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"> | <img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/4.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"> |
 
 **Parts needed:**
 
  - Printed parts:
 	 - [20kg_servo_mount.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-i0pbr) This is the part that holds the servo.
 	 - [Brush_holder.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-IZfeJ) This is the part that holds the brush
-	 - [Arm_Left_servo.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-Ac7of) Use this part if you're mounting the servo to the left (when looking at the printer from the front).
-	 - [Arm_Right_servo.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-6haNp) Use this part if you're mounting the servo to the right (when looking at the printer from the front).
+	 - [Arm_Left_servo.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-Ac7of) The "left"/"right" in the name indicates where the arm mounts to the servo, so use this file if you plan to mount the servo to the right.
+	 - [Arm_Right_servo.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-6haNp) The "left"/"right" in the name indicates where the arm mounts to the servo, so use this file if you plan to mount the servo to the left.
 
  - Electronics:
 	 - 1x: [270 degree 20kg servo](https://www.amazon.com/dp/B076CNKQX4?psc=1&ref=ppx_yo2ov_dt_b_product_details)
