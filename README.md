@@ -23,6 +23,9 @@
 **Disclaimers:** 
  - The parts were designed to be printed via SLS; however, all parts can be printed via FDM on a standard 3D printer such as a RatRig. Please note that support will be necessary.
  - A 270 degree servo is needed if you plan to mount the servo on the right.
+ - The spacer and screw length needs to be customized for your setup.
+ 
+Click the image with your servo configuration and it will take you to the right STL file.
 
 | Left mount servo | Right mount servo |
 |--|--|
@@ -34,6 +37,7 @@
  - Printed parts:
 	 - [20kg_servo_mount.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-i0pbr) This is the part that holds the servo.
 	 - [Brush_holder.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-IZfeJ) This is the part that holds the brush
+	 - [Spacer.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-KP0vf) The height of the spacer can/needs to be customized to modify the nozzle contact with the brush, this can be done in slicer (no cad skils needed).
 	 - [Arm_Left_servo.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-Ac7of) The "left"/"right" in the name indicates where the arm mounts to the servo, so use this file if you plan to mount the servo to the right.
 	 - [Arm_Right_servo.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-6haNp) The "left"/"right" in the name indicates where the arm mounts to the servo, so use this file if you plan to mount the servo to the left.
 
@@ -44,4 +48,8 @@
 	 - 1x: [Brass brush](https://www.amazon.com/dp/B0C786T8Z7?psc=1&ref=ppx_yo2ov_dt_b_product_details) This one is pre cut but you can use any other brass brush and cut it yourself, in fact that may be better since you can cut it to fit perfectly.
 
  - Fasteners:
-	 - 
+	 - 2x: [Cap Head Screw M6x12](https://www.amazon.com/Cicidorai-M6-1-0-Socket-Machine-Quantity/dp/B09Y5JQNV8/ref=sr_1_3?crid=3QNVJMDBC6E7F&dib=eyJ2IjoiMSJ9.xDl6tqKGTTNDHsfl_PrKSv01_ZL0IbwG0vqe3h_ZjH9t5ZWy_y6ASDL9XNF1sS2n0eamh1TW0LT9sDMLD20Z2hTGfum5UQOprzu76JqjC2cN4QKdMj3QDDKKSY85dvr_u_f7m50pAbIrR8qMSziPJQ57dDroNBIHHKR1yqbj8tE8RXZ59PuYPOvlB6zFagFBrZNYwcUjPHC9PSFcWjFMCrk4q9vj4MQaB821cfC1gBI.jKD7vU-E7CGWHtQGhEy5cGS9fnWTqx-CVWn1NwPPtVE&dib_tag=se&keywords=Cap%20Head%20Screw%20M6x12&qid=1718594236&sprefix=cap%20head%20screw%20m6x12,aps,236&sr=8-3) Used to mount the servo to the frame. You may have some leftovers from the ones included in the RatRig kit.
+	 - 2x: [3030 series M6 T nut](https://www.amazon.com/Fastener-European-Aluminum-Profile-Assortment/dp/B0CG4TNZRH/ref=sr_1_2_sspa?crid=3U0VLBKWJE20U&dib=eyJ2IjoiMSJ9.UfxRy4KC-e3dUK55ZeQ5yU8n3VOfLeAEaTuLTlfm6LavjkYpyK0FeIQ0NHy5Yv1ENRjDTqboRz7Sc5nKg2jc1SE9VW4gFYKbgFdoLUdy0Ysr2ImY0cEFKlbK1qi3lSRZpfz6aEmmyM8WXQTkiUPWG7lnOl9ADYsMeh3TwaIGf3srRHVjsMYGT7EsgEdTobLsg0Th745hN0zZP0ISt-LZvR2znpY8ImSyuaFtSoH8Ofw.dLMbik4Bh82fL5ZdBXI10wH4riYtD_CmOrRhZ4HxCY4&dib_tag=se&keywords=m6%2b3030%2bt%2bnut&qid=1718594332&sprefix=M6%2b3030%2b,aps,123&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) Used to mount the servo to the frame. You may have some leftovers from the ones included in the RatRig kit.
+	 - 4x: [M4 heatset insert](https://www.amazon.com/gp/product/B08YYGRCBG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) The hole for the inserts is 5.3mm in diameter and 7.5mm in lenght. A 6mm long insert is recommended.
+	 - 4x: [M4 screws](https://www.amazon.com/HELIFOUNER-Pieces-Socket-Washers-Threaded/dp/B0CDSKK7V1/ref=sr_1_3?crid=2FYQYG4WHJ68M&dib=eyJ2IjoiMSJ9.f8fJT3uyL2E0z-jqgxfW-X8nSnKZVs1Q-Qj5mQMIEeZKIMneVzFPxkFcMYCMyo0Ct6wODW07Fq4YI6v-ajKbUuA1xHEgBL_iyWWQNNxk76HQV1-fAEiqcTwbL8gTkcgkfuJKWvVNKew1lZayJuojM8n_DFPvqBIoyaUTwKDvIDlx9fslPcNMWAFKQYZeJrGGS-ywcNfN2hL7UUyCIGZa4DZLH6gVd-xfyMvzH8ODMJc.PY864v9Ymsx1RIigwQItJyjTnJATlA1qnCoPYk5Wf8Q&dib_tag=se&keywords=m4%2bscrew%2bkit%2b35mm/&qid=1718594658&sprefix=m4%2bscrew%2bkit%2b35mm,aps,152&sr=8-3&th=1) The lenght of these depends on the size of spacer you use, but between 25 and 35mm should be enough.
+	 - 2x: [M3x6 screw](https://www.amazon.com/gp/product/B0CCMK6NQR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) Used to secure the brush arm to the servo.
