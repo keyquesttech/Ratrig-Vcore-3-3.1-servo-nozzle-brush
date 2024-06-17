@@ -37,6 +37,8 @@ Click the image with your servo configuration and it will take you to the right 
   <img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/5.png" alt="Servo Nozzle Brush" style="margin-top: 10px;">
 </div>
 
+<hr>
+
 **Parts needed:**
 
  - Printed parts:
