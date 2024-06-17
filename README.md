@@ -15,3 +15,28 @@
 </div>
 
 <hr>
+
+<div align="center">
+  <strong><h1>Instructions:</h1></strong>
+</div>
+
+**Disclaimers:** 
+ - The parts were designed to be printed via SLS; however, all parts can be printed via FDM on a standard 3D printer such as a RatRig. Please note that support will be necessary.
+ - A 270 degree servo is needed if you plan to mount the servo on the left.
+
+**Parts needed:**
+
+ - Printed parts:
+	 - [20kg_servo_mount.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-i0pbr) This is the part that holds the servo.
+	 - [Brush_holder.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-IZfeJ) This is the part that holds the brush
+	 - [Arm_Left_servo.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-Ac7of) Use this part if you're mounting the servo to the left (when looking at the printer from the front).
+	 - [Arm_Right_servo.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-6haNp) Use this part if you're mounting the servo to the right (when looking at the printer from the front).
+
+ - Electronics:
+	 - 1x: [270 degree 20kg servo](https://www.amazon.com/dp/B076CNKQX4?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+
+ - Hardware:
+	 - 1x: [Brass brush](https://www.amazon.com/dp/B0C786T8Z7?psc=1&ref=ppx_yo2ov_dt_b_product_details) This one is pre cut but you can use any other brass brush and cut it yourself, in fact that may be better since you can cut it to fit perfectly.
+
+ - Fasteners:
+	 - 
