@@ -7,6 +7,9 @@
   <br><br>
   <img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/1.png" alt="Servo Nozzle Brush" style="margin-top: 10px;">
   <br><br>
+
+  <hr>
+  
   For STL files, visit this link. Downloading from there helps support my work: <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush">https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush</a>
   <br><br>
 </div>
