@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Ratrig servo nozzle brush</strong>
+  <strong><h1>Ratrig servo nozzle brush</h1></strong>
 </p>
 
 <hr>
