@@ -26,7 +26,8 @@
 
 | Left mount servo | Right mount servo |
 |--|--|
-|  <img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/6.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"> | <img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/4.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"> |
+| <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-6haNp"><img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/6.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"></a> | <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-Ac7of"><img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/4.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"></a> |
+
 
 **Parts needed:**
 
