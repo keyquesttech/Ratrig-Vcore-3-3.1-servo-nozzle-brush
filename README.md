@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <strong><h1>Ratrig servo nozzle brush</h1></strong>
-</p>
+</div>
 
 <hr>
 
