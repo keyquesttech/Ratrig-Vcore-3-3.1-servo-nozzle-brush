@@ -1,5 +1,10 @@
 <div align="center">
   <strong><h1>Ratrig servo nozzle brush</h1></strong>
+
+![GitHub forks](https://img.shields.io/github/forks/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush)
+![GitHub Repo stars](https://img.shields.io/github/stars/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush)
+![GitHub last commit](https://img.shields.io/github/last-commit/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush)
+ 
 </div>
 
 <div align="center">
