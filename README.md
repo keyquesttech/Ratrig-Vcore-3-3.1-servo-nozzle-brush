@@ -1,4 +1,5 @@
 
+
 <div align="center">
   <strong><h1>Ratrig servo nozzle brush</h1></strong>
 
@@ -35,7 +36,7 @@ Click the image with your servo configuration and it will take you to the right 
 
 | Left mount servo | Right mount servo |
 |--|--|
-| <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-6haNp"><img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/6.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"></a> | <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-Ac7of"><img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/4.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"></a> |
+| <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-xqwti"><img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/6.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"></a> | <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-9vg2L"><img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/4.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"></a> |
 
 <div align="center">
   Customize the height of the spacer as needed so that the brush touches the nozzle:
@@ -52,8 +53,8 @@ Click the image with your servo configuration and it will take you to the right 
          - [Servo_mount_long.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-LlbBd) If you have a ratrig bigger than 200mm or enough space and wanna make instalation easier use this file.
 	 - [Brush_holder.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-tgc1A) This is the part that holds the brush
 	 - [Spacer.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-KP0vf) The height of the spacer can/needs to be customized to modify the nozzle contact with the brush, this can be done in slicer (no cad skils needed).
-	 - [Arm_Left_servo.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-Ac7of) The "left"/"right" in the name indicates where the arm mounts to the servo, so use this file if you plan to mount the servo to the right.
-	 - [Arm_Right_servo.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-6haNp) The "left"/"right" in the name indicates where the arm mounts to the servo, so use this file if you plan to mount the servo to the left.
+	 - [Arm_Left_servo.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-9vg2L) The "left"/"right" in the name indicates where the arm mounts to the servo, so use this file if you plan to mount the servo to the right.
+	 - [Arm_Right_servo.stl](https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-xqwti) The "left"/"right" in the name indicates where the arm mounts to the servo, so use this file if you plan to mount the servo to the left.
 
  - Electronics:
 	 - 1x: [270 degree 20kg servo](https://www.amazon.com/dp/B076CNKQX4?psc=1&ref=ppx_yo2ov_dt_b_product_details)
