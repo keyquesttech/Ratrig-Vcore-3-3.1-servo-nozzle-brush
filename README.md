@@ -12,7 +12,7 @@
 <div align="center">
   With the introduction of beacon touch/contact, having a clean nozzle is essential, especially if you plan to use more than three samples. Therefore, a solution to clean the nozzle was needed. However, the Vcore-3/3.1 is tight on space, and the nozzle does not hang over the edge of the bed in any position. As a result, having a servo-mounted brush was necessary. That is why I designed this solution.
   <br><br>
-  <img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/1.jpg" alt="Servo Nozzle Brush" style="margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/1.png" alt="Servo Nozzle Brush" style="margin-top: 10px;">
   <br><br>
 
   <hr>
@@ -36,7 +36,7 @@ Click the image with your servo configuration and it will take you to the right 
 
 | Left mount servo | Right mount servo |
 |--|--|
-| <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-xqwti"><img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/6.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"></a> | <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-9vg2L"><img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/4.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"></a> |
+| <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-9vg2L"><img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/6.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"></a> | <a href="https://www.printables.com/model/913748-ratrig-vcore-331-servo-nozzle-brush/files#preview:file-9vg2L"><img src="https://raw.githubusercontent.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush/main/imgs/4.png" alt="Servo Nozzle Brush" style="margin-top: 10px;"></a> |
 
 <div align="center">
   Customize the height of the spacer as needed so that the brush touches the nozzle:
@@ -68,6 +68,8 @@ Click the image with your servo configuration and it will take you to the right 
 	 - 6x: [M4 heatset insert](https://www.amazon.com/gp/product/B08YYGRCBG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) The hole for the inserts is 5.6mm in diameter and 7.5mm in lenght. A 6mm long insert is recommended.
 	 - 6x: [M4 screws](https://www.amazon.com/HELIFOUNER-Pieces-Socket-Washers-Threaded/dp/B0CDSKK7V1/ref=sr_1_3?crid=2FYQYG4WHJ68M&dib=eyJ2IjoiMSJ9.f8fJT3uyL2E0z-jqgxfW-X8nSnKZVs1Q-Qj5mQMIEeZKIMneVzFPxkFcMYCMyo0Ct6wODW07Fq4YI6v-ajKbUuA1xHEgBL_iyWWQNNxk76HQV1-fAEiqcTwbL8gTkcgkfuJKWvVNKew1lZayJuojM8n_DFPvqBIoyaUTwKDvIDlx9fslPcNMWAFKQYZeJrGGS-ywcNfN2hL7UUyCIGZa4DZLH6gVd-xfyMvzH8ODMJc.PY864v9Ymsx1RIigwQItJyjTnJATlA1qnCoPYk5Wf8Q&dib_tag=se&keywords=m4%2bscrew%2bkit%2b35mm/&qid=1718594658&sprefix=m4%2bscrew%2bkit%2b35mm,aps,152&sr=8-3&th=1) The lenght of these depends on the size of spacer you use, but between 25 and 35mm should be enough. You will also need 2 6mm long screws to mount the servo.
 	 - 2x: [M3x6 screw](https://www.amazon.com/gp/product/B0CCMK6NQR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) Used to secure the brush arm to the servo.
+
+<hr>
 
 <div align="center">
   <strong><h1>Macro</h1></strong>
@@ -129,3 +131,12 @@ To see how I have it implemented on my printer check this repo:
  - My variable usage: [printer.cfg](https://github.com/keyquesttech/printer_backup/blob/main/printer_data/config/printer.cfg)
  - My macro: [defaultmacros.cfg](https://github.com/keyquesttech/printer_backup/blob/main/printer_data/config/User_files/printer/defaultmacros.cfg)
 
+<hr>
+
+<div align="center">
+  <strong><h1>Changes</h1></strong>
+</div>
+
+ - Updated heat insert tolerances.
+ - Changed servo mount for easier assembly.
+ - Thickened servo arm for easier printing and stability.
